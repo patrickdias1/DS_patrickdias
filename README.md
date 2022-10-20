@@ -2,7 +2,7 @@
 
 Meu Portfólio de Projetos em Data Science
 
-[![author](https://www.linkedin.com/in/patrickdias1/)
+[![author](https://www.linkedin.com/in/patrickdias1/)]
 
 <p align="center">
   <img src="banner.png" >
