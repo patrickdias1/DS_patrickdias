@@ -7,4 +7,4 @@ Meu Portfólio de Projetos em Data Science
 </p>
 
 # Patrick Dias
-<sub>*Engenheiro Físico com habilitação em Engenharia Eletrônica </sub>
+<sub>*Engenheiro Físico com habilitação em Engenharia Eletrônica* </sub>
