@@ -1,4 +1,3 @@
-[![author](https://www.linkedin.com/in/patrickdias1/)]
 
 # DS_patrickdias
 
