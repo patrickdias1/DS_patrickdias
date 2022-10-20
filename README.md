@@ -14,3 +14,4 @@ Meu Portfólio de Projetos em Data Science
 
 
 * [LinkedIn](https://www.linkedin.com/in/patrickdias1/)
+* [Youtube](https://www.youtube.com/watch?v=LIY57ujyjQg&t=119s)
