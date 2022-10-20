@@ -1,4 +1,4 @@
-
+* [LinkedIn](https://www.linkedin.com/in/patrickdias1/)
 # DS_patrickdias
 
 Meu Portfólio de Projetos em Data Science
