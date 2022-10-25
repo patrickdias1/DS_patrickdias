@@ -20,7 +20,7 @@ Meu Portfólio de Projetos em Data Science
 
 PROJETOS
 
-- [Analisando Dados do Airbnb na cidade de Roma](https://github.com/patrickdias1/Projeto-1/blob/main/PROJETO_1_Analisando_os_Dados_do_Airbnb.ipynb) 
+- [Analisando Dados do Airbnb na Cidade de Roma](https://github.com/patrickdias1/Projeto-1/blob/main/PROJETO_1_Analisando_os_Dados_do_Airbnb.ipynb) 
 
 
 
