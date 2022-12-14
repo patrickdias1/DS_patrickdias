@@ -21,6 +21,7 @@ Meu Portfólio de Projetos em Data Science
 PROJETOS
 
 - [Analisando Dados do Airbnb na Cidade de Roma](https://github.com/patrickdias1/Projeto-1/blob/main/PROJETO_1_Analisando_os_Dados_do_Airbnb.ipynb) 
+- [Paranorama do COVID-19 no Paraguai](https://github.com/patrickdias1/DS_patrickdias/blob/main/Panorama_do_Covid_19_no_Paraguai.ipynb)
 
 
 
